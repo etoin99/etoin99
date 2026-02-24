@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola, soy Emilio Tornos 👋
 
-<!--
-**etoin99/etoin99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst & Specialist en Apple 🍎
+Especialista en Consultoría de Soluciones Tecnológicas con +7 años de trayectoria en entornos de alta exigencia. 
+Actualmente enfocado en el Análisis de Datos, transformando métricas complejas en decisiones estratégicas para el negocio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Mi Stack Tecnológico
+* **Cloud & Databases:** Google BigQuery (SQL), Modelado Relacional y NoSQL (MongoDB).
+* **Análisis & IA:** Python (Pandas, NumPy), Google Colab, AI-Assisted Analysis.
+* **Visualización:** Power BI (DAX), Excel (VBA), Data Storytelling.
+* **Metodologías:** Agile (Sprints/Kanban), Git/GitHub.
+
+---
+
+### 📂 Proyectos Destacados
+* **[IT Academy: Data Analysis Portfolio](https://github.com/etoin99/IT_Academy_DA):** Repositorio central con módulos avanzados de BI, SQL y Python.
+* **[End-to-End Data Pipeline](en-proceso):** .
+
+---
+
+### 📫 
+* **LinkedIn:** [linkedin.com/in/etornos](https://www.linkedin.com/in/etornos)
