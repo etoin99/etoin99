@@ -24,7 +24,7 @@ Actualmente enfocado en el Análisis de Datos, transformando métricas complejas
 
 ### 📂 Proyectos Destacados
 * **[IT Academy: Data Analysis Portfolio](https://github.com/etoin99/IT_Academy_DA):** Repositorio central con módulos avanzados de BI, Sistemas de Bases de Datos y Python para Ciencia de Datos.
-* **[End-to-End Data Pipeline](en-proceso):** .
+* **[End-to-End Data Pipeline](en-proceso):** en proceso... .
 
 ---
 
