@@ -21,6 +21,7 @@ Actualmente enfocado en el Análisis de Datos, transformando métricas complejas
 
 **Ecosistema de IA (AI-Assisted Analysis)** ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
 ![Perplexity](https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -36,16 +37,18 @@ Actualmente enfocado en el Análisis de Datos, transformando métricas complejas
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Apple](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-* **Cloud & Databases:** Google BigQuery (SQL), Modelado Relacional y NoSQL (MongoDB).
-* **Análisis & IA:** Python (Pandas, NumPy), Google Colab, AI-Assisted Analysis.
-* **Visualización:** Power BI (DAX), Excel (VBA), Data Storytelling.
-* **Metodologías:** Agile (Sprints/Kanban), Git/GitHub.
+
+* **Cloud & Databases:** Google Cloud Platform (BigQuery), Arquitectura Relacional (MySQL) y NoSQL (MongoDB).
+* **Análisis & Inteligencia Predictiva:** Modelado avanzado con Random Forest y Prophet, integración de **Hugging Face** y **Google AI Ecosystem** para análisis de texto y briefings operativos.
+* **Automatización & APIs:** Pipelines de datos con Python (Pandas, NumPy) consumiendo APIs estratégicas (Open-Meteo, Ticketmaster, Open Data BCN).
+* **Visualización & BI:** Dashboards estratégicos en Power BI (DAX avanzado) y visualización estadística con Seaborn/Matplotlib.
+* **Metodologías:** Agile (Sprints/Kanban), Git/GitHub y Desarrollo asistido por IA (Copilot, Gemini, Claude).
 
 ---
 
 ### 📂 Proyectos Destacados
 * **[🏙️ Smart-BCN: Predictive AI & Urban Insights](https://github.com/etoin99/Smart-BCN-Predictive-AI)** Proyecto Final. Plataforma de inteligencia operativa que utiliza Machine Learning para predecir la demanda en hostelería, cruzando el clima y la agenda de eventos de Barcelona con el modelo de negocio local.  
-  * **Tech Stack:** Python (Random Forest), IA Generativa (LLM para briefings operativos), Scikit-Learn y APIs (Open-Meteo/Ticketmaster).  
+  * **Tech Stack:** Python (Random Forest), IA Generativa (LLM para briefings operativos), Scikit-Learn y APIs (Open-Meteo, Ticketmaster, OpenData BCN).  
   * **Impacto:** Optimización de la cuenta de resultados (P&L) mediante la reducción de mermas, gestión eficiente de staffing y estrategias de marketing quirúrgico basadas en previsiones de ocupación.
   
 * **[🚀 IT Academy: Data Analysis Portfolio](https://github.com/etoin99/IT_Academy_DA)** Repositorio central con la progresión técnica completa: desde la arquitectura de bases de datos (SQL/NoSQL) hasta visualización estratégica en Power BI y automatización de procesos con Python para Ciencia de Datos.
