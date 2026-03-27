@@ -23,8 +23,11 @@ Actualmente enfocado en el Análisis de Datos, transformando métricas complejas
 ---
 
 ### 📂 Proyectos Destacados
-* **[IT Academy: Data Analysis Portfolio](https://github.com/etoin99/IT_Academy_DA):** Repositorio central con módulos avanzados de BI, Sistemas de Bases de Datos y Python para Ciencia de Datos.
-* **[End-to-End Data Pipeline](en-proceso):** en proceso... .
+* **[🏙️ Smart-BCN: Predictive AI & Urban Insights](https://github.com/etoin99/Smart-BCN-Predictive-AI)** Proyecto Final. Plataforma de inteligencia operativa que utiliza Machine Learning para predecir la demanda en hostelería, cruzando el clima y la agenda de eventos de Barcelona con el modelo de negocio local.  
+  * **Tech Stack:** Python (Random Forest), IA Generativa (LLM para briefings operativos), Scikit-Learn y APIs (Open-Meteo/Ticketmaster).  
+  * **Impacto:** Optimización de la cuenta de resultados (P&L) mediante la reducción de mermas, gestión eficiente de staffing y estrategias de marketing quirúrgico basadas en previsiones de ocupación.
+  
+* **[🚀 IT Academy: Data Analysis Portfolio](https://github.com/etoin99/IT_Academy_DA)** Repositorio central con la progresión técnica completa: desde la arquitectura de bases de datos (SQL/NoSQL) hasta visualización estratégica en Power BI y automatización de procesos con Python para Ciencia de Datos.
 
 ---
 
